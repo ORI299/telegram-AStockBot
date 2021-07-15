@@ -40,6 +40,12 @@ hare is some exemples
 
 **by default price is 0.1**
 
+### to stop this command
+
+```
+/stop
+```
+
 
 
 ## get command
@@ -94,9 +100,9 @@ hare is some exemples
 
 
 """                
-11:23 [you]: /market_status
+19:53 [you]: /market_status
 
-11:23 [AStocksBot]: normal
+19:53 [AStocksBot]: normal
 
 
 """
@@ -106,4 +112,135 @@ hare is some exemples
 ```
 /market_status
 ```
+
+
+
+
+
+## crypto command
+### this command will show you the top crypto coins
+```python
+                                                 date 18/07/2021
+
+
+
+
+
+
+
+
+"""                
+20:03 [you]: /crypto
+
+20:03 [AStocksBot]: BTC-USD, ETH-USD, USDT-USD, BNB-USD, ADA-USD, XRP-USD, USDC-USD, HEX-USD, DOGE-USD, DOT1-USD,
+
+
+"""
+```
+
+
+```
+/crypto
+```
+
+
+
+# active command
+### this command will show you the top 10/number you pick stocks that has the must big change
+
+```python
+                                                 date 19/07/2021
+
+
+
+
+
+
+
+
+"""                
+20:14 [you]: /active
+
+20:14 [AStocksBot]: hare is top 10
+  AMC (9.6%)
+  AAPL (0.08%)
+  SPCE (1.0%)
+  NIO (3.16%)
+  WISH (4.7%)
+  NOK (-2.06%)
+  DIDI (3.88%)
+  BAC (-0.04%)
+  CLOV (-2.3%)
+  AMD (-0.04%)
+
+
+
+20:14 [you]: /active 3
+
+20:14 [AStocksBot]: 
+  AMC (10.74%)
+  AAPL (0.2%)
+  SPCE (-0.54%)
+
+
+"""
+```
+```
+/active <NumberOfStocks : max is 50>
+```
+
+
+
+#info command
+### info command can help you get info like: phone number,city,country about the compeny of the stock
+```python
+                                                 date 20/07/2021
+
+
+
+
+
+
+
+
+"""                
+20:36 [you]: /info cgib
+
+20:36 [AStocksBot]: invalid symbol
+
+20:37 [you]: /info bigc
+
+
+20:37 [AStocksBot]: BigCommerce Holdings, Inc. (https://www.bigcommerce.com)
+   BigCommerce Holdings, Inc. operates a software-as-a-service platform for small businesses, mid-markets, and large enterprises in the United States. The company's platform        provides various services for launching and scaling ecommerce operation, including store design, catalog management, hosting, checkout, order management, reporting, and pre-    integrations. As of December 31, 2020, it served approximately 60,000 online stores across industries in approximately 155 countries. BigCommerce Holdings, Inc. was founded      in 2009 and is headquartered in Austin, Texas.
+
+20:37 [AStockBot]: MORE INFO
+  city: Austin
+  country: United States
+  phone: 512 865 4500
+  address 1: 11305 Four Points Drive
+  sector: Technology
+  zip: 78726
+  market: us_market
+
+"""
+```
+
+
+
+
+#news command
+### this command will show you the last news in this month   
+### and also can transalte the news using the google translate
+
+without translate
+
+![image](https://user-images.githubusercontent.com/78441039/125805048-2e4dde8e-64f1-439a-8b92-4df77c132b86.png)
+![image](https://user-images.githubusercontent.com/78441039/125805522-967b37cb-952d-4418-8bd8-3616e2b2c420.png)
+
+and even more
+
+with translate
+
+![video](videos/news.webm)
 
