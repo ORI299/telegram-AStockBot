@@ -35,3 +35,40 @@ hare is some exemples
 
 
 **by default price is 0.1**
+
+
+
+## get command
+```python
+                                                 date 16/07/2021
+
+
+
+
+
+"""                
+18:23 [you]: /get BIGS
+
+18:23 [AStocksBot]: this is not a vaid symbol!
+
+18:24 [you]: /get BIGC
+
+18:24 [AStocksBot]: hare is bigc's price: 
+  price now: 54.09
+  change 8.72$ (%16.12-)
+  range ...
+
+
+
+18:25 [you]: /get bigc
+
+18:25 [AStocksBot]: hare is bigc's price: 
+  price now: 54.09
+  change 8.72$ (%16.12-)
+  range ...
+
+"""
+```
+```
+/get <Symbol>
+```
