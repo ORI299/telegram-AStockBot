@@ -18,4 +18,4 @@
 
 # how the bot is saving information and he has db?
 db mean database
-- the bot is saving information with [json](https://en.wikipedia.org/wiki/JSON) and no he has no db (json is not a db but **with** json you can create a db)  
+- the bot is saving information with [json](https://en.wikipedia.org/wiki/JSON) formet. and no, he has no db. (json is not a db but **with** json you can create a db)
