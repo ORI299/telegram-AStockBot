@@ -6,7 +6,11 @@
 hare is some exemples
 
 
-## change command
+## change command  
+### the change command will allow **you** to get the price, the range, and even more! about **any** stock
+### **every** time that the stock price will go up by a price that you have choosed!
+
+
 ```python
                                                  date 15/07/2021
 
@@ -39,6 +43,9 @@ hare is some exemples
 
 
 ## get command
+### easy command to get the price,range,change and even more!
+
+ 
 ```python
                                                  date 16/07/2021
 
@@ -72,3 +79,31 @@ hare is some exemples
 ```
 /get <Symbol>
 ```
+
+
+## market_status command
+### this command will tell you the market status of this 
+```python
+                                                 date 17/07/2021
+
+
+
+
+
+
+
+
+"""                
+11:23 [you]: /market_status
+
+11:23 [AStocksBot]: normal
+
+
+"""
+```
+
+
+```
+/market_status
+```
+
