@@ -24,3 +24,5 @@ db mean database
 - the bot is saving information with [json](https://en.wikipedia.org/wiki/JSON) formet. and no, he has no db. (json is not a db but **with** json you can create a db)
 # why the bot is offline and not working?
 - if its happening please tell me so i can fix the bot 
+# there is a website for the bot?
+- In general it is the website of the bot, but maybe i will buy a domain and create a website for the bot (with flask)!
