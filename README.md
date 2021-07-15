@@ -244,3 +244,4 @@ with translate
 
 ![video](videos/news.webm)
 
+##if you have any Questions ask me but please see ![this file](faq.md) first 
