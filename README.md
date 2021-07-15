@@ -5,6 +5,8 @@
 [ASstocksBot](https://t.me/AStocksBot) is a new telegram bot he created with python and running on azure and has **a lot** of stock commands   
 hare is some exemples
 
+link : https://t.me/AStocksBot
+
 
 ## change command  
 ### the change command will allow **you** to get the price, the range, and even more! about **any** stock
@@ -245,3 +247,4 @@ with translate
 ![video](videos/news.webm)
 
 ##if you have any Questions ask me but please see ![this file](faq.md) first 
+
