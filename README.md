@@ -235,16 +235,16 @@ link : https://t.me/AStocksBot
 ### this command will show you the last news in this month   
 ### and also can transalte the news using the google translate
 
-without translate
+- how it look **without** translate
 
-![image](https://user-images.githubusercontent.com/78441039/125805048-2e4dde8e-64f1-439a-8b92-4df77c132b86.png)
-![image](https://user-images.githubusercontent.com/78441039/125805522-967b37cb-952d-4418-8bd8-3616e2b2c420.png)
+![image](https://user-images.githubusercontent.com/78441039/126384721-47d70e64-39ff-40ab-a2d4-0fe5ad170b49.png)
+
 
 and even more
 
-with translate
+- how it look **with** translate
 
-![video](videos/news.webm)
+![image](https://user-images.githubusercontent.com/78441039/126384392-5e7bfa7d-2570-44bf-b0ff-25a7aae2cfa2.png)
 
 ## if you have any Questions ask me but please see ![this file](faq.md) first 
 
