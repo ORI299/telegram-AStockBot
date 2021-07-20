@@ -1,8 +1,8 @@
 
-# telegram AStocksBot [![send our bot message](https://img.shields.io/badge/the-bot-brightgreen.svg?style=flat)](https://t.me/AStocksBot)
+# Telegram AStocksBot [![send our bot message](https://img.shields.io/badge/the-bot-brightgreen.svg?style=flat)](https://t.me/AStocksBot)
 
 
-[ASstocksBot](https://t.me/AStocksBot) is a new telegram bot he created with python and running on azure and has **a lot** of stock commands   
+[AStocksBot](https://t.me/AStocksBot) is a new telegram bot he's been created with python and running on AzureVM and has **a lot** of stock commands   
 hare is some exemples
 
 link : https://t.me/AStocksBot
@@ -10,7 +10,7 @@ link : https://t.me/AStocksBot
 
 ## change command  
 ### the change command will allow **you** to get the price, the range, and even more! about **any** stock
-### **every** time that the stock price will go up by a price that you have choosed!
+### when the price target that you have defined is been achieved, you will be noticed!
 
 
 ```python
