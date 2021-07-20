@@ -194,7 +194,7 @@ link : https://t.me/AStocksBot
 
 
 #info command
-### info command can help you get info like: phone number,city,country about the compeny of the stock
+### info command can help you get info like: phone number,city,country and more. about the compeny of the symbol stock
 ```python
                                                  date 20/07/2021
 
@@ -231,7 +231,7 @@ link : https://t.me/AStocksBot
 
 
 
-#news command
+# news command
 ### this command will show you the last news in this month   
 ### and also can transalte the news using the google translate
 
@@ -246,5 +246,5 @@ with translate
 
 ![video](videos/news.webm)
 
-##if you have any Questions ask me but please see ![this file](faq.md) first 
+## if you have any Questions ask me but please see ![this file](faq.md) first 
 
