@@ -148,7 +148,7 @@ link : https://t.me/AStocksBot
 
 
 # active command
-### this command will show you the top 10/number you pick stocks that has the must big change
+### this command will show you the top 10 (or any amount that you will choose) of stocks with the must big change.
 
 ```python
                                                  date 19/07/2021
