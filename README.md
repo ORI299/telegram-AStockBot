@@ -3,9 +3,9 @@
 
 
 [AStocksBot](https://t.me/AStocksBot) is a new telegram bot he's been created with python and running on AzureVM and has **a lot** of stock commands   
-hare is some exemples
+Here are some examples
 
-link : https://t.me/AStocksBot
+link: https://t.me/AStocksBot
 
 
 ## change command  
@@ -23,7 +23,7 @@ link : https://t.me/AStocksBot
 """                
 11:23 [you]: /change bigc 5
 
-11:23 [AStocksBot]: i will notified you when bigc's stock price will change by 5$
+11:23 [AStocksBot]: I will notify you when bigc's stock price will change by 5$
 
 15:37 [AStocksBot]: bigc's price has changed! hare is the price: 
   price now: 62.01
@@ -32,7 +32,7 @@ link : https://t.me/AStocksBot
 
 15:38 [you]: /stop
 
-15:38 [AStocksBot]: i will stop notified you when bigc's stock price will change by 5$
+15:38 [AStocksBot]: I will stop notified you when bigc's stock price will change by 5$
 """
 ```
 ```
@@ -51,7 +51,7 @@ link : https://t.me/AStocksBot
 
 
 ## get command
-### easy command to get the price,range,change and even more!
+### easy command to get the price, range, change, and even more!
 
  
 ```python
@@ -64,7 +64,7 @@ link : https://t.me/AStocksBot
 """                
 18:23 [you]: /get BIGS
 
-18:23 [AStocksBot]: this is not a vaid symbol!
+18:23 [AStocksBot]: this is not a valid symbol!
 
 18:24 [you]: /get BIGC
 
@@ -194,7 +194,7 @@ link : https://t.me/AStocksBot
 
 
 #info command
-### info command can help you get info like: phone number,city,country and more. about the compeny of the symbol stock
+### info command can help you get info like phone number, city, country, and more. about the company of the symbol stock
 ```python
                                                  date 20/07/2021
 
@@ -233,16 +233,16 @@ link : https://t.me/AStocksBot
 
 # news command
 ### this command will show you the last news in this month   
-### and also can transalte the news using the google translate
+### and also can translate the news using the google translate
 
-- how it look **without** translate
+- how does it look **without** translate
 
 ![image](https://user-images.githubusercontent.com/78441039/126384721-47d70e64-39ff-40ab-a2d4-0fe5ad170b49.png)
 
 
 and even more
 
-- how it look **with** translate
+- how does it look **with** translate
 
 ![image](https://user-images.githubusercontent.com/78441039/126384392-5e7bfa7d-2570-44bf-b0ff-25a7aae2cfa2.png)
 
