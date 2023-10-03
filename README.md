@@ -1,3 +1,6 @@
+# this BOT is no longer running 
+
+
 # Telegram AStocksBot [![Send Our Bot Message](https://img.shields.io/badge/the-bot-brightgreen.svg?style=flat)](https://t.me/AStocksBot)
 
 [AStocksBot](https://t.me/AStocksBot) is a new Telegram bot. It's created using Python and runs on AzureVM, offering a wide range of stock-related commands. Here are some examples:
