@@ -1,5 +1,7 @@
-# this BOT is no longer running 
-
+# NOTICE this BOT is no longer running!
+# NOTICE this BOT is no longer running!
+# NOTICE this BOT is no longer running!
+# NOTICE this is an old readme file for a bot i used to run!
 
 # Telegram AStocksBot [![Send Our Bot Message](https://img.shields.io/badge/the-bot-brightgreen.svg?style=flat)](https://t.me/AStocksBot)
 
